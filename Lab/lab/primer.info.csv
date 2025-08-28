@@ -1,0 +1,92 @@
+primer,species,gene,length,success,reference,Tm
+Pcan,Pomacea canaliculata,COI,171,no,yes,61
+Ga-16S,Gambusia affinis,16S,117,,yes,65.5
+Ga-cytb,Gambusia affinis,cytb,122,,yes,63.2
+Lca-cytb,Rana catesbeiana,cytb,79,,yes,63.7
+Lca-16S,Rana catesbeiana,16S,119,,yes,58.6
+Lca-12S,Rana catesbeiana,12S,135,,yes,59.0 
+Tse-COI,Trachemys scriptaelegans,COI,178,,yes,65.1
+Pc1-COI,Procambarus clarkii,COI,73,,yes,64.7
+Pc1-COIF,Procambarus clarkii,COI,65,,yes,58.8
+Orni,Oreochromis niloticus,COI,154,,yes,65.2
+Asp-12S,Atractosteus spatula,12S,160,,yes,57.8
+Asp-COI,Atractosteus spatula,COI,159,,yes,66.0 
+Mte,Macroclemys temminckii,cytb,110,,yes,63.5
+Psp-cytb,Polyodon spathula,cytb,331,,yes,64.2
+Loc-COI,Lepisosteus oculatus,COI,62,,yes,64.9
+Ang-COI,Anguilla anguilla,COI,110,,yes,64.3
+Ang-cytb,Anguilla anguilla,cytb,106,,yes,63.4
+Ang-12S,Anguilla anguilla,12S,142,,yes,57.8
+Aro,Anguilla rostrata,cytb,151,,yes,64.8
+Onki-cytb,Oncorhynchus kisutch,cytb,114,,yes,64.9
+Onki-COI,Oncorhynchus kisutch,COI,279,,yes,68.2
+Onki-12S,Oncorhynchus kisutch,12S,240,,yes,67.5
+Onmy,Oncorhynchus mykiss,Cytb,196,,yes,65.5
+Msa-cytb,Micropterus salmoides,Cytb,106,,yes,64.4
+Msa-COI,Micropterus salmoides,COI,107,,yes,62.0 
+Msa-16S,Micropterus salmoides,16S,142,,yes,58.9
+Ormo,Oreochromis mossambicus,16S,189,,yes,60.7
+Chse,Chelydra serpentina,COI,197,,yes,63.1
+Lifo,Limnoperna fortunei,COI,197,,yes,65.1
+Lema-cytb,Lepomis macrochirus,Cytb,100,,yes,64.2
+Mga-16S,Mytilus galloprovincialis,16S,335,,yes,62.0 
+Pcl-COI 3,Procambarus clarkii,COI,191,,no,65.1
+Pcl-COI 4,Procambarus clarkii,COI,204,,no,64.8
+Psp-Dloop,Polyodon spathula,Dloop,105,,no,65.2
+Loc-COI 2,Lepisosteus oculatus,COI,176,,no,65.4
+Loc- Dloop,Lepisosteus oculatus,Dloop,204,,no,65.7
+Lema- COI 1,Lepomis macrochirus,COI,226,,no,65.3
+Lema- COI 2,Lepomis macrochirus,COI,199,,no,65.4
+Mga-Dloop,Mytilus galloprovincialis,COI,145,,no,64.9
+Cba-COI,Clarias batrachus,COI,275,,no,64.7
+Cba- Dloop,Clarias batrachus,Dloop,162,,no,65.4
+Ppa-Dloop,Pterygoplichthys pardalis,Dloop,300,,no,64.9
+Ppa-COI,Pterygoplichthys pardalis,COI,247,,no,64.6
+Cozi-Dloop,Coptodon zillii,Dloop,182,,no,65.1
+Cozi-COI,Coptodon zillii,COI,158,,no,65.7
+Nno-COI 1,Notopterus notopterus,COI,116,,no,64.1
+Nno-COI 2,Notopterus notopterus,COI,201,,no,64.9
+Cmr-COI 1,Cirrhinus mrigala,COI,212,,no,65.1
+Cmr-COI 2,Cirrhinus mrigala,COI,199,,no,66.8
+Icy-COI,Ictiobus cyprinellus,COI,184,,no,65.6
+Icy-Dloop,Ictiobus cyprinellus,COI,189,,no,65.7
+Pli-Dloop,Prochilodus lineatus,Dloop,137,,no,65.3
+Pli-COI,Prochilodus lineatus,COI,247,,no,65.4
+Ipu-Dloop,Ictalurus punctatus,Dloop,146,,no,65.1
+Ipu-COI,Ictalurus punctatus,COI,167,,no,63.9
+Lau-Dloop,Lepomis auratus,Dloop,256,,no,65.0 
+Lau-COI,Lepomis auratus,COI,269,,no,65.3
+Laca-Dloop,Lates calcarifer,Dloop,103,,no,65.0 
+Laca-COI,Lates calcarifer,COI,286,,no,65.3
+Orau-Dloop,Oreochromis aureus,Dloop,286,,no,64.5
+Orau-COI,Oreochromis aureus,COI,188,,no,65.3
+Pama-Dloop,Parachromis managuensis,Dloop,174,,no,65.3
+Pama-COI,Parachromis managuensis,COI,250,,no,65.5
+Saga-COI 1,Sarotherodon galilaeus,COI,221,,no,65.4
+Saga-COI 2,Sarotherodon galilaeus,COI,211,,no,65.3
+Mosa-Dloop,Morone saxatilis,Dloop,242,,no,65.2
+Mosa-COI,Morone saxatilis,COI,271,,no,65.1
+Pfl-COI 1,Perca fluviatilis,COI,277,,no,64.9
+Pfl-COI 2,Perca fluviatilis,COI,100,,no,65.2
+Amam-COI 1,Amphibalanus Amphitrite,COI,153,,no,65.6
+Amam-COI 2,Amphibalanus Amphitrite,COI,254,,no,62.9
+Crgi-COI 1,Crassostrea gigas,COI,158,,no,65.6
+Crgi-COI 2,Crassostrea gigas,COI,241,,no,65.7
+Clga-Dloop,Clarias gariepinus,Dloop,121,,no,65.4
+Clga-COI,Clarias gariepinus,COI,205,,no,63.2
+Scoc-Dloop,Sciaenops ocellatus,Dloop,179,,no,64.3
+Scoc-COI,Sciaenops ocellatus,COI,188,,no,64.9
+Pspa-COI 1,Pseudorasbora parva,COI,230,,no,65.1
+Pspa-COI 1,Pseudorasbora parva,COI,116,,no,64.9
+Efu-Dloop,Eleotris fusea,Dloop,121,,no,64.9
+Efu-COI,Eleotris fusea,COI,231,,no,65.1
+Ptdi-COI,Pterygoplichthys disjunctivus,COI,284,,no,64.8
+Ptdi-Dloop,Pterygoplichthys disjunctivus,Dloop,136,,no,64.7
+Laro-COI 1,Labeo rohita,COI,205,,no,64.2
+Laro-COI 2,Labeo rohita,COI,227,,no,65.5
+Titi-COI 1,Tinca tinca,COI,127,,no,65.4
+Titi-COI 2,Tinca tinca,COI,298,,no,64.9
+Pyna-Dloop,Channa striata,Dloop,113,,no,64.6
+Pyna-COI,Channa striata,COI,211,,no,65.4
+Pyna-Dloop,Pygocentrus nattereri,Dloop,242,,no,65.0 
+Pyna-COI,Pygocentrus nattereri,COI,247,,no,64.9
